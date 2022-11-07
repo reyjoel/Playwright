@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "@playwright/test": "^1.27.1",
+    "playwright": "^1.27.1"
+  },
+  "scripts": {},
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
